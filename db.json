@@ -1,0 +1,40 @@
+{
+  "cars": [
+    {
+      "id": 1,
+      "name": "Name1",
+      "price": 99999,
+      "img": "http://localhost:3000/img/1.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Name2",
+      "price": 999999,
+      "img": "http://localhost:3000/img/2.webp"
+    },
+    {
+      "id": 3,
+      "name": "Name3",
+      "price": 53559,
+      "img": "http://localhost:3000/img/3.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Name4",
+      "price": 775999,
+      "img": "http://localhost:3000/img/4.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Name5",
+      "price": 339999,
+      "img": "http://localhost:3000/img/5.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Name6",
+      "price": 199999,
+      "img": "http://localhost:3000/img/6.jpg"
+    }
+  ]
+}

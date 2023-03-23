@@ -1,0 +1,23 @@
+.header {
+  &__inner {
+    display: flex;
+    justify-content: space-between;
+  }
+
+  &__ul {
+    display: flex;
+  }
+
+  &__li {
+    margin-right: 10px;
+    color: aqua;
+  }
+
+  &__active {
+    color: rgb(12, 114, 114);
+  }
+
+  &__li:last-child {
+    margin-right: 0;
+  }
+}

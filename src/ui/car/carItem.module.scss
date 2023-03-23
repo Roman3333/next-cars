@@ -1,0 +1,31 @@
+.car {
+  width: 522px;
+  margin: 0 20px 20px 0;
+  padding: 10px;
+  border-radius: 20px;
+  border: 1px solid #08abeb;
+
+  &Items {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+  }
+
+  &ImageBox {
+    margin-bottom: 10px;
+  }
+
+  &Title {
+    margin-bottom: 10px;
+  }
+
+  &Price {
+    margin-bottom: 20px;
+  }
+
+  &Link {
+    padding: 10px;
+    background: #1fb67c;
+    border-radius: 20px;
+  }
+}
